@@ -2,7 +2,7 @@
 
 Offensive security practitioner focused on web application security, vulnerability research, and CTFs. I approach offensive testing with a defensive mindset: helping teams understand risk and strengthen what they build.
 
-Website:[andrewvirya.me](https://andrewvirya.me)
+Website: [andrewvirya.me](https://andrewvirya.me)
 
 ### Skills
 
